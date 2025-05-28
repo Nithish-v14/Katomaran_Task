@@ -58,17 +58,17 @@ Watch the demo video here:
 
 ## ⚙️ Setup Instructions
 
-1. **Clone the GitHub Repository**
+ 1. **Clone the GitHub Repository**
 
    git clone https://github.com/your-username/face-recognition-rag-chatbot.git
    
    cd face-recognition-rag-chatbot
    
-2.**Install Dependencies**
+  2.**Install Dependencies**
 
    pip install -r requirements.txt
 
-3.**Run the Streamlit App**
+  3.**Run the Streamlit App**
 
    streamlit run app.py
 
