@@ -32,8 +32,10 @@ This project is a browser-based Streamlit app for:
 ### 4. Verification-Based Chatbot Access
 - Chatbot opens only after user verifies identity by face
 
-### 5. Logging
-- All events like registration, recognition, verification, and questions are logged in `logs/app.log`
+ ## 📺 Demo Video
+
+[Watch the Demo Video](https://drive.google.com/file/d/1ZoTo5UaDxX6WE2-WeKaCJdRfKLxNwkic/view?usp=sharing)
+
 
 ---
 
@@ -63,11 +65,11 @@ git clone https://github.com/your-username/face-recognition-rag-chatbot.git
 cd face-recognition-rag-chatbot
 
 Step 2: Install dependencies
-```bash
+
 pip install -r requirements.txt
 
 Step 3: Run the Streamlit app
-```bash
+
 streamlit run app.py
 
 
