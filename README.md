@@ -68,6 +68,6 @@ Step 3: Run the Streamlit app
 streamlit run app.py
 
 
-📢 Credits
-This project is a part of a hackathon run by https://katomaran.com
+📢 **Credits**
+**This project is a part of a hackathon run by https://katomaran.com**
 
