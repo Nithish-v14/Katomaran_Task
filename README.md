@@ -61,6 +61,7 @@ Watch the demo video here:
 1. **Clone the GitHub Repository**
 
    git clone https://github.com/your-username/face-recognition-rag-chatbot.git
+   
    cd face-recognition-rag-chatbot
    
 2.**Install Dependencies**
