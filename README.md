@@ -53,11 +53,18 @@ Watch the demo video here: [Demo Video on Google Drive](https://drive.google.com
 ![Architecture](architecture.png)
 
 ---
+🔧 Setup Instructions
+ 1.Clone the GitHub Repository
+ git clone https://github.com/your-username/face-recognition-rag-chatbot.git
+ cd face-recognition-rag-chatbot
 
-## 🚀 How to Run
+ 2 Install Required Python Packages
+ pip install -r requirements.txt
 
-### Step 1: Install dependencies
-```bash
-pip install -r requirements.txt
+ 3.Run the Application
+  streamlit run app.py
+---
+## 📢 Credits
 
 This project is a part of a hackathon run by https://katomaran.com
+
