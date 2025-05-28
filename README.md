@@ -59,3 +59,5 @@ Watch the demo video here: [Demo Video on Google Drive](https://drive.google.com
 ### Step 1: Install dependencies
 ```bash
 pip install -r requirements.txt
+
+This project is a part of a hackathon run by https://katomaran.com
