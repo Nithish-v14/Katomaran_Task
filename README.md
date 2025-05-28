@@ -28,9 +28,11 @@ This project is a browser-based Streamlit app for:
 
 ### 4. Verification-Based Chatbot Access
 - Chatbot opens only after user verifies identity by face
+---
 
-### 5. Logging
-- All events like registration, recognition, verification, and questions are logged in `logs/app.log`
+## Demo Video
+
+Watch the demo video here: [Demo Video on Google Drive](https://drive.google.com/file/d/1ZoTo5UaDxX6WE2-WeKaCJdRfKLxNwkic/view?usp=sharing)
 
 ---
 
