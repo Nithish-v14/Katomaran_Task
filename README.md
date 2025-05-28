@@ -59,15 +59,15 @@ This project is a browser-based Streamlit app for:
 git clone https://github.com/your-username/face-recognition-rag-chatbot.git
 cd face-recognition-rag-chatbot
 
-### Step 2: Install dependencies
+**Step 2: Install dependencies**
 ```bash
 pip install -r requirements.txt
 
-### Step 3: Run the Streamlit app
+**Step 3: Run the Streamlit app**
 ```bash
 streamlit run app.py
 
 
-📢 Credits
+**📢 Credits**
 This project is a part of a hackathon run by https://katomaran.com
 
