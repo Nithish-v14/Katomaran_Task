@@ -58,7 +58,7 @@ Watch the demo video here:
 
 ## ⚙️ Setup Instructions
 
- 1. **Clone the GitHub Repository**
+1. **Clone the GitHub Repository**
 
    git clone https://github.com/your-username/face-recognition-rag-chatbot.git
    
