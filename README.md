@@ -2,8 +2,8 @@
 
 This project is a browser-based Streamlit app for:
 
-- 📸 Face Registration via webcam  
-- 👁️ Real-time Face Recognition  
+- 📸 Face Registration via webcam
+- 👁️ Real-time Face Recognition
 - 💬 AI Chatbot for querying face registration activities
 
 ---
@@ -29,12 +29,8 @@ This project is a browser-based Streamlit app for:
 ### 4. Verification-Based Chatbot Access
 - Chatbot opens only after user verifies identity by face
 
----
-
-## 🎥 Demo Video
-
-Watch the demo video here:  
-[Demo Video on Google Drive](https://drive.google.com/file/d/1ZoTo5UaDxX6WE2-WeKaCJdRfKLxNwkic/view?usp=sharing)
+### 5. Logging
+- All events like registration, recognition, verification, and questions are logged in `logs/app.log`
 
 ---
 
@@ -56,22 +52,22 @@ Watch the demo video here:
 
 ---
 
-## ⚙️ Setup Instructions
+## 🚀 How to Run
 
-1. **Clone the GitHub Repository**
+### Step 1: Clone the Repo
+```bash
+git clone https://github.com/your-username/face-recognition-rag-chatbot.git
+cd face-recognition-rag-chatbot
 
-   git clone https://github.com/your-username/face-recognition-rag-chatbot.git
-   
-   cd face-recognition-rag-chatbot
-   
-  2.**Install Dependencies**
+### Step 2: Install dependencies
+```bash
+pip install -r requirements.txt
 
-   pip install -r requirements.txt
+### Step 3: Run the Streamlit app
+```bash
+streamlit run app.py
 
-  3.**Run the Streamlit App**
 
-   streamlit run app.py
+📢 Credits
+This project is a part of a hackathon run by https://katomaran.com
 
-**📢 Credits**
-
-   This project is a part of a hackathon run by https://katomaran.com
